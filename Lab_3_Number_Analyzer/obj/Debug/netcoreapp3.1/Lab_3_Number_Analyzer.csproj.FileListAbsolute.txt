@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.exe
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.deps.json
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.runtimeconfig.json
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.dll
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\bin\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.pdb
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.dll
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.pdb
+C:\Users\tmviz\source\repos\Lab_3_Number_Analyzer\Lab_3_Number_Analyzer\obj\Debug\netcoreapp3.1\Lab_3_Number_Analyzer.genruntimeconfig.cache
